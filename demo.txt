@@ -1,0 +1,5 @@
+echo "#demo >> README.md
+git init
+git add README .md
+git commit -M main
+gitremote add origin https:/github.com/vairavan87/Demo.gift
